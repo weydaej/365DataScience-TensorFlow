@@ -17,4 +17,4 @@
 `anaconda-navigator`
 
 
-#### Anaconda Navigator should be working and you get up and running by launching a Jupyter Lab or Jupyter Notebook environment.
+###### Anaconda Navigator should be working and you get up and running by launching a Jupyter Lab or Jupyter Notebook environment.
